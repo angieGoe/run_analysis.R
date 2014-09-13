@@ -7,7 +7,7 @@
 
 ### Indicating local directories where the files are
 datafile <- "getdata-projectfiles-UCI.zip"
-datadir  <- "/Users/angiegoenaga/Documents/Mis Documentos/Courses/Coursera/Getting and Cleaning Data/R Project"
+datadir  <- "/Users/angiegoenaga/Documents/Mis Documentos/Courses/Coursera/Getting and Cleaning Data/R Project/UCI HAR Dataset"
 testdir  <- paste(datadir, "test", sep="/")
 traindir <- paste(datadir, "train", sep="/")
 
